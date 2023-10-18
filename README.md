@@ -1,11 +1,9 @@
+## Putra Ari Nurojab (2308892) MKB 1C TIM 7 Transformator
 # GPSTracker
-
-# Putra Ari Nurojab (2308892) MKB 1C TIM 7 Transformator
-
-# GPSTracker
-> GPSTracker Adalah Alat untuk melacak Ponsel dari daerah manapun atau secara berkala asalkan masih terkenal radiasi sinyal dari Pusat GPS.
-Kalian Dapat mengetahui posisi seseorang dengan melacaknya menggunakan GPSTracker asalkan orang tersebut memegang sebuah Ponsel.
-Kalian Juga dapat Menggunakan GPSTracker sebagai Peta Dunia untuk menemukan tempat tujuan yang ingin kalian mau.
+GPSTracker Adalah Alat untuk melacak Ponsel dari daerah manapun atau secara berkala asalkan masih terkenal radiasi 
+sinyal dari Pusat GPS. Kalian Dapat mengetahui posisi seseorang dengan melacaknya menggunakan GPSTracker asalkan 
+orang tersebut memegang sebuah Ponsel. Kalian Juga dapat Menggunakan GPSTracker sebagai Peta Dunia untuk menemukan 
+tempat tujuan yang ingin kalian mau.
 
 ## Table of Contents
 * [General Info](#general-information)
